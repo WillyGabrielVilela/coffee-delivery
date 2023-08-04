@@ -25,4 +25,11 @@ Coffee Delivery se trata de uma aplicação de entrega de café, durante esse pr
 
 O layout pode ser visto através do Figma
 
+[Layout Web](https://www.figma.com/file/5yT9ZzZmRQRS4yivGGB3pl/Coffee-Delivery-%E2%80%A2-Desafio-React/duplicate?type=design&node-id=2-12&mode=design)
+
+
+## 🔖 Layout do Projeto
+
+O layout pode ser visto através do Figma
+
 [Layout Web](https://www.figma.com/file/5yT9ZzZmRQRS4yivGGB3pl/Coffee-Delivery/duplicate)
