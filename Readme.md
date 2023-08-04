@@ -1,7 +1,7 @@
 ## ☕ Projeto Coffee Delivery
 
 <div align="center">
-<img alt="Capa do projeto" src="public/coffee.gif" width="60%">
+<img alt="Capa do projeto" src="public/coffee.gif" width="100%">
 </div>
 
 ## 💻 Projeto
